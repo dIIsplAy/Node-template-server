@@ -1,0 +1,23 @@
+{
+  "name": "node-template",
+  "version": "0.0.1",
+  "description": "first template",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dIIsplAy/Node-template-server.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dIIsplAy/Node-template-server/issues"
+  },
+  "homepage": "https://github.com/dIIsplAy/Node-template-server#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mustache": "^2.3.0"
+  }
+}
